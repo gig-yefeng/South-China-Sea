@@ -1,2 +1,2 @@
 # South-China-Sea
-The carbon and nitrogen isotopic composition of particulate organic matter in the northern South China Sea
+The dataset reports the concentrations and stable carbon and nitrogen isotope ratios of particulate organic matter off the Pearl River Estuary in the northern South China Sea on the R/V Haike 68 during three cruises conducted from April to June 2016. Concentration and isotope data were collected by Dr. Feng YE and Dr. Zhen Shi  using the Thermo Finnigan Delta V plus IRMS. Carbon and nitrogen isotope ratios are an important tool to better understand the biogeochemical cycles of carbon and nutrients, and their relationship to primary production and climate change.
